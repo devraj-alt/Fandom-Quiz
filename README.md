@@ -4,7 +4,7 @@
 * __Update URL of the REPL in Github__
 
 ## Overview
-Hi! My name is _Devraj Roy_ and this is __[Fandom Quiz on Shaktimaan.] (https://replit.com/@devrajalt/Quiz-on-Shaktimaan?embed=1&output=1)__ This is a fandom based quiz on Indian superhero Shaktimaan. It contain ten easy question which you have to answer. I made this application using _Tanay Pratap's_ YouTube video tutorial __[First CLI App: Intro to programming by Tanay Pratap](https://www.youtube.com/watch?v=_L-UszPmy2A&list=PLzvhQUIpvvuj5KPnyPyWsvgyzNkX_ACPA&index=2)__
+Hi! My name is _Devraj Roy_ and this is __[Fandom Quiz on Shaktimaan.](https://replit.com/@devrajalt/Quiz-on-Shaktimaan?embed=1&output=1)__ This is a fandom based quiz on Indian superhero Shaktimaan. It contain ten easy question which you have to answer. I made this application using _Tanay Pratap's_ YouTube video tutorial __[First CLI App: Intro to programming by Tanay Pratap](https://www.youtube.com/watch?v=_L-UszPmy2A&list=PLzvhQUIpvvuj5KPnyPyWsvgyzNkX_ACPA&index=2)__
 ## What I learned?          
 ## Key Topics
 * What is Github?
